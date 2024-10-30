@@ -1,0 +1,9 @@
+Reporte de Pacientes mayores de 12 años:
+-----------------------------------------
+ID: 0Nombre: louEdad: 12Diagnóstico: tos
+ID: 2Nombre: lauraEdad: 12Diagnóstico: 12
+ID: 1Nombre: 12Edad: 12Diagnóstico: 12
+ID: 3Nombre: lauraEdad: 12Diagnóstico: 12
+ID: 5Nombre: lemuelEdad: 12Diagnóstico: hola
+ID: 7Nombre: lemuelEdad: 19Diagnóstico: hola
+ID: 8Nombre: lauraEdad: 12Diagnóstico: dd
